@@ -1,3 +1,5 @@
+Se utiliza jso-server para emular endpoints Fake, primero se deben realizar los siguientes pasos:
+
 ## Instalar paquetes:
 
 Primero necesitamos instalar los paquetes necesarios para correr json-server, para ello nos ubicamos en la consola en la carpeta del proyecto y ejecutamos:
@@ -13,14 +15,14 @@ Una vez instalados los paquetes necesitamos correr el servidor y que se quede vi
 ```
 json-server --watch db/db.json
 ```
-o 
+o
 ```
 npm start
 ```
 
-## Verificar que la api ste corriendo
+## Verificar que la api esté corriendo
 
-Ve al navegador  ingresa
+Ve al navegador e ingresa
 
 ```
 http://localhost:3000
