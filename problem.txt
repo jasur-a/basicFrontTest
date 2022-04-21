@@ -1,0 +1,27 @@
+Les presento la siguiente problematica:
+
+- Tengo una aplicacion que registra una especie de inventario, pero el diseño esta dañado, necesita ser ajustado, un ejemplo es que todos los items se ven en una sola columna, pero las card´s deben ajustarse tanto vertical como horizontalmente, asi muchos otros detalles más
+
+- Puedo Loguearme pero no puedo desloguearme, por lo que cualquier persona puede ingresar al sistema porque siempre esta abierto
+
+- Intento actualizar uno de los productos, pero no me actualiza el registro
+
+- Quiero eliminar un elemento, pero cuando le doy a eliminar borra otro
+
+- Quiero evitar hacer una pegada a la api para traerme la info de un producto que quiero editar, siendo que solo son dos datos y ya hice un primer fetch para listar los productos, como puedo solventarlo?
+
+- Deseo agregar una descripcion al producto, pero no siempre se tiene la descripcion del mismo
+
+- Cuando ingreso al listado de productos me pone la siguiente url: "/index.htmlindex.html" , y no me deja ingresar al sistema
+
+- Cuando intento crear un producto me da error
+
+TIPS:
+
+    - Datos de acceso: admin - admin
+    - Todo el diseño de la pagina puede ser modificado igual que los datos que quieras agregar en el producto
+    - Para ahorrar y evitar repetir codigo se crearon funciones que reciben diferentes props dependiendo el caso
+    - En la ruta db/db.json es la base de datos y las tablas y lean README
+    - Instalen npm
+
+

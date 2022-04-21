@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "admin",
+      "pass": "admin",
+      "status": true
+    },
+    {
+      "id": 1,
+      "user": "admin2",
+      "pass": "admin2",
+      "status": false
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "manzanas",
+      "total": 1
+    },
+    {
+      "id": 2,
+      "name": "peras",
+      "total": 1
+    },
+    {
+      "name": "escobas",
+      "total": "4",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "detergente",
+      "total": 10
+    },
+    {
+      "name": "papel",
+      "total": "40",
+      "id": 5
+    }
+  ]
+}
