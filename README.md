@@ -1,4 +1,8 @@
-Se utiliza jso-server para emular endpoints Fake, primero se deben realizar los siguientes pasos:
+Este es un test básico de frontend, donde la persona debe aprender a leer y comprender un código de tercero para encontrar los errores en JS, CSS y HTML para solucionarlos.
+
+El JS utilizado es una implementación básica.
+
+Se utiliza json-server para emular endpoints Fake, primero se deben realizar los siguientes pasos:
 
 ## Instalar paquetes:
 
